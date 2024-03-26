@@ -1,10 +1,10 @@
 export const feeds = [
-  // Daring Fireball
-  'https://daringfireball.net/feeds/main',
+  // FourCore
+  'https://feeds.feedburner.com/fourcore/84qwrnfiny4',
 
-  // JakeArchibald.com
-  'https://jakearchibald.com/posts.rss',
+  // BleepingComputer
+  'https://www.bleepingcomputer.com/feed/',
 
-  // Appjeniksaan
-  'https://appjeniksaan.nl/feed.xml',
+  // Perception Point
+  'https://perception-point.io/blog/category/attack-trends/feed/',
 ]
