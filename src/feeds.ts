@@ -7,4 +7,10 @@ export const feeds = [
 
   // Perception Point
   'https://perception-point.io/blog/category/attack-trends/feed/',
+
+  // Nicola Suter
+  'https://tech.nicolonsky.ch/index.xml',
+
+  // Jan Bakker
+  'https://janbakker.tech/feed/'
 ]
