@@ -12,5 +12,8 @@ export const feeds = [
   'https://tech.nicolonsky.ch/index.xml',
 
   // Jan Bakker
-  'https://janbakker.tech/feed/'
+  'https://janbakker.tech/feed/',
+
+  //VulnU
+  'https://rss.beehiiv.com/feeds/lSfumbrEGk.xml'
 ]
