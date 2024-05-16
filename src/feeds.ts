@@ -14,6 +14,9 @@ export const feeds = [
   // Jan Bakker
   'https://janbakker.tech/feed/',
 
-  //VulnU
-  'https://rss.beehiiv.com/feeds/lSfumbrEGk.xml'
+  // VulnU
+  'https://rss.beehiiv.com/feeds/lSfumbrEGk.xml',
+
+  // 404media
+  'https://www.404media.co/rss'
 ]
